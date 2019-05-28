@@ -6,6 +6,7 @@ url: http://codinfox.github.io
 logo: '/public/logo.png'
 
 # Site configurations
+
 plugins:
   - jekyll-paginate
 markdown: kramdown
