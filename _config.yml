@@ -1,6 +1,6 @@
 # Site Info
 title: Jungsik Jackson Byun
-tagline: 'Jungsik <strong>Jackson</sstrong> Byun Personal Blog'
+tagline: 'Jungsik Jackson Byun Personal Blog'
 #description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 url: https://dosmode.github.io/
 logo: '/public/logo.png'
@@ -9,6 +9,7 @@ logo: '/public/logo.png'
 
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 markdown: kramdown
 kramdown:
   input: GFM
