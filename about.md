@@ -4,27 +4,22 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! My name is Jungsik. Jungsik is a Computer Science student at the University of Texas Rio Grande Valley with an overall 3.73/4.0 GPA, major 3.80/4.0 GPA, honor student, Magna Cum Laude.
+
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Throughout my academic career, I have persistently been praised as dedicated and accountable by my professors and peers for my work.
+An exceptionally creative individual with strong analytical skills. Offering outstanding ability to work with various programming languages, including C++, C, Java, C#, Ruby, Javascript, SQL, HTML, XML, CSS, and PHP.
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+# Career
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Student Assistant
+* The University of Texas Rio Grande Valley
+Aug 2016 – May 2019
+Edinburg, Texas
+Assisted over 1,000 International students with registration, enrollment and visa requirements. While working, I developed an information desk sign-in system to track student visitor’s needs.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
+Under construction
+TBC
 Thanks for reading!
