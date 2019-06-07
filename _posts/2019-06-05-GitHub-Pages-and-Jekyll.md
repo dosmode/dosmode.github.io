@@ -1,6 +1,8 @@
 ---
-typora-copy-images-to: ../_posts
-typora-root-url: ../_posts
+typora-copy-images-to: ../
+typora-root-url: ../
+categories: [web, ruby]
+tags: [jekyll, ruby, web]
 ---
 
 # GitHub Pages and Jekyll
