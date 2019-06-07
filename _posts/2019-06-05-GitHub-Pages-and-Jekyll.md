@@ -18,13 +18,11 @@ tags: [jekyll, ruby, web]
 Create new repositoy on your github account
 
 
-![9b6f9439](/9b6f9439.png)
+![9b6f9439](../public/img/9b6f9439.png)
 
-push your repository
+![27f21159](../public/img/27f21159.png)push your repository
 
-
-
-![Screen Shot 2019-06-07 at 5.53.09 PM](../public/img/Screen Shot 2019-06-07 at 5.53.09 PM.png)
+![ae001ff4](../public/img/ae001ff4.png)
 
 We have done all the basic steps to putting our code up on to the github account
 
