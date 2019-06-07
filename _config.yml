@@ -26,19 +26,20 @@ version: 1.1.5
 # About/contact
 author:
   name: Jungsik Jackson Byun
-  description: A passionate
-  <div class="codinfox-sidebar-description sidebar-personal-info-section">
-    A passionate
-    <div class="codinfox-changing-keywords" id="change">
-        <strong>
-            <b class="hidden">software engineer</b><br/>
-            <b class="hidden">lifelong learner</b><br/>
-            <b class="hidden">blogger</b><br/>
-            <b class="hidden">traveller</b>
+  description: 
+    <a><h3>Jungsik <strong> Jackson </strong> Byun</a></h3>
+    <a><strong>Software Developer</strong> </br>at General Motors</a>
+    <div class="codinfox-sidebar-description sidebar-personal-info-section">
+      <span class="codinfox-changing-keywords" id="change">
+      <strong>
+            <b class="hidden">To be a Good Programmer:</b><br>
+            <b class="hidden">Make</b><br/>
+            <b class="hidden">Build</b><br/>
+            <b class="hidden">Create</b><br/>
         </strong>
+      </span>
     </div>
-</div>
- <strong>developer and researcher</strong>, learning to be a giant.
+
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
     linkedin:  https://linkedin.com/in/jungsik-byun/
