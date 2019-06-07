@@ -28,11 +28,12 @@ author:
   name: Jungsik Jackson Byun
   description: 
     <a><h3>Jungsik <strong> Jackson </strong> Byun</a></h3>
-    <a><strong>Software Developer</strong> </br>at General Motors</a>
+    <a><strong>Software Developer</strong> </br>at General Motors</a><br/>
     <div class="codinfox-sidebar-description sidebar-personal-info-section">
       <span class="codinfox-changing-keywords" id="change">
+      </br>
       <strong>
-            <b class="hidden">To be a Good Programmer:</b><br>
+            <b class="hidden">To be a Good Programmer:</b><br/>
             <b class="hidden">Make</b><br/>
             <b class="hidden">Build</b><br/>
             <b class="hidden">Create</b><br/>
