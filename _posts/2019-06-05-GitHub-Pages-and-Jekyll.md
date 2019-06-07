@@ -17,7 +17,8 @@ tags: [jekyll, ruby, web]
 
 Create new repositoy on your github account
 
-![9b6f9439](/assets/9b6f9439.png)
+![9b6f9439](/9b6f9439.png)
+![9b6f9439](/img/9b6f9439.png)
 
 push your repository
 
