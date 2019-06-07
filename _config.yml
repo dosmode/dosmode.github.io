@@ -26,7 +26,19 @@ version: 1.1.5
 # About/contact
 author:
   name: Jungsik Jackson Byun
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
+  description: A passionate
+  <div class="codinfox-sidebar-description sidebar-personal-info-section">
+    A passionate
+    <div class="codinfox-changing-keywords" id="change">
+        <strong>
+            <b class="hidden">software engineer</b><br/>
+            <b class="hidden">lifelong learner</b><br/>
+            <b class="hidden">blogger</b><br/>
+            <b class="hidden">traveller</b>
+        </strong>
+    </div>
+</div>
+ <strong>developer and researcher</strong>, learning to be a giant.
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
     linkedin:  https://linkedin.com/in/jungsik-byun/
