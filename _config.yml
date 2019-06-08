@@ -20,7 +20,7 @@ sass:
 paginate: 5
 paginate_path: '/blog/page:num'
 permalink: pretty
-
+comments: true
 version: 1.1.5
 
 # About/contact
@@ -74,5 +74,5 @@ hero:
 # Puglins
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
-disqus_short_name: jungsik # leave blank if you don't want disqus
+disqus_short_name: 'jungsik' # leave blank if you don't want disqus
 
