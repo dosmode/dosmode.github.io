@@ -1,3 +1,12 @@
+---
+categories: [Deep Learning]
+tags: [Neural Networks, training data]
+---
+
+
+
+
+
 # The Hello World of Deep Learning with Neural Networks
 
 
